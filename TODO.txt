@@ -1,0 +1,6 @@
+* HTTPS.
+* Autentication.
+* Change security status to Arm with tag.
+* Battery.
+* Accept multiple RFID modules
+* Replace Domoticz user variables, create a new hardware in Domoticz.
